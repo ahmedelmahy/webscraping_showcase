@@ -12,3 +12,5 @@ The third project was to scrape my school website. More specifically, This not a
 
 
 
+## *Note ##
+The first two spiders should be used within a scrapy framework. The (tutorial)[https://doc.scrapy.org/en/latest/intro/tutorial.html] was very helpful to me .  The three projects bring out json files which I import into R to do the analysis. I will include the analysis codes in R in another git repository. 
